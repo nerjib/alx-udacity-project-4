@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/nerjib/alx-udacity-project-4?style=svg)]
+(https://circleci.com/gh/nerjib/alx-udacity-project-4)
 
 ## Project Overview
 
