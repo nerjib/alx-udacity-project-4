@@ -8,7 +8,6 @@ COPY . /app
 
 ## Step 3:
 RUN pip install -r requirements.txt
-# hadolint ignore=DL3013
 
 ## Step 4:
 EXPOSE 80
