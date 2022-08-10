@@ -1,5 +1,4 @@
-[![CircleCI](https://circleci.com/gh/nerjib/alx-udacity-project-4?style=svg)]
-(https://circleci.com/gh/nerjib/alx-udacity-project-4)
+[![CircleCI](https://circleci.com/gh/nerjib/alx-udacity-project-4.svg?style=svg)](https://circleci.com/gh/nerjib/alx-udacity-project-4)
 
 ## Project Overview
 
